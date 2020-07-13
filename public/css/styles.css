@@ -1,0 +1,33 @@
+.content {
+    background-color: #cbf1f5;
+    
+    box-shadow: 0 0 10px #000;
+    margin: 10%;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: center;
+    min-height: 70vh;
+}
+h1{
+    margin-bottom: 90px;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+button{
+    margin-top: 150px;
+}
+.joke{
+        font-size: 30px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #242320;
+    color: white;
+    text-align: center;
+}
